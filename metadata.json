@@ -1,0 +1,5 @@
+{
+  "name": "Eman's AI Receptionist",
+  "description": "A done-for-you AI receptionist service personally built and managed by Eman. Just provide your Gmail, and I'll handle the rest.",
+  "requestFramePermissions": []
+}
